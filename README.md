@@ -11,6 +11,7 @@ A modern, responsive Next.js 15 application for finding and rating real estate a
 - **Search & Filter**: Advanced search and filtering capabilities
 - **Contact Forms**: Integrated contact forms for inquiries
 - **SEO Optimized**: Built with Next.js 15 App Router for optimal SEO
+- **Dark Mode**: Complete dark/light mode toggle with theme persistence
 
 ## Tech Stack
 
